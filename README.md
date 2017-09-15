@@ -14,12 +14,12 @@ npm install -g weather-liyu
 //直接查询当前IP所在城市的天气
 weather
 ```
-![](https://ws1.sinaimg.cn/large/889b2f7fgy1fikyhx1oy8j207m03fwee.jpg)
+![@weather](https://ws1.sinaimg.cn/large/889b2f7fgy1fikyhx1oy8j207m03fwee.jpg)
 
 ```bash
 //查询指定城市的天气
 weather [CurrentCity]
 ```
-![](https://ws1.sinaimg.cn/large/889b2f7fgy1fikyizo1p1j207903gjrm.jpg)
+![@weather 北京](https://ws1.sinaimg.cn/large/889b2f7fgy1fikyizo1p1j207903gjrm.jpg)
 
 **PS：这是练手的玩具，所以可能不会继续维护**
